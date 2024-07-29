@@ -1,7 +1,7 @@
 <h1 align="center" style="font-weight: bold;">Literalura 💻</h1>
 
 <p align="center">
-    <b>Projeto desenvolvido no programa ONE - Oracle Next Education realizado pela Alura em parceria com a Oracle. O projeto foi desenvolvido em Java 17 no decorrer da especialização em back-end. Literalura é uma aplicação que permite aos usuários buscar informações sobre livros e autores. Utiliza a API Gutendex para obter informações sobre livros e autores.</b>
+    <b>Projeto desenvolvido no programa ONE - Oracle Next Education, realizado pela Oracle em parceria com a Alura. O projeto foi desenvolvido em Java 17 no decorrer da especialização em back-end. Literalura é uma aplicação que permite aos usuários buscar informações sobre livros e autores. Utiliza a API Gutendex para obter informações sobre livros e autores.</b>
 </p>
 
 <h2>📖 Funcionalidades</h2>
